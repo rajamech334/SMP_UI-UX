@@ -1,2 +1,2 @@
-# SMP_dashboard
+# SMP_UI
 SMP_Dashboard development
